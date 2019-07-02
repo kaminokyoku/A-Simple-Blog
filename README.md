@@ -1,5 +1,7 @@
 # A-Simple-Blog-Site
 
+![Index](https://raw.githubusercontent.com/kaminokyoku/A-Simple-Blog/master/Firefox_Screenshot_2019-07-02T06-01-03.634Z.png)
+
 Through the web site, users can register for an account, post
 articles and to leave comments on others. When logged in, they have full control of the
 content they have authored: creating, updating and deleting their content and comments.
