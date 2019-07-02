@@ -1,0 +1,91 @@
+
+a:link{text-decoration: none;}
+a:active { text-decoration:none;}
+a:hover { text-decoration:none;}
+a:visited { text-decoration: none;}
+
+body{
+    background-color: #f5cabc !important;
+}
+
+.navbar{
+    background-color: #394740 !important;
+    opacity: 0.9;
+
+    z-index: 9999;
+}
+.navbar-brand{
+    color: white !important;
+}
+#search_button{
+    color: white;
+    background: transparent;
+    border: 1px solid white;
+    transition: all 0.4s ease-in-out;
+}
+
+#search_button:hover {
+    background: #FFC0AB;
+    border-color: #FFC0AB;
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    background-color: white;
+    color: #394740;
+}
+.dropdown-menu{
+    background-color: #394740;
+    opacity: 0.9;
+}
+.dropdown-menu.show {
+    margin-left: -98px;
+}
+.dropdown-item{
+    color:white;
+    font-family: "Segoe UI Light";
+}
+.dropdown-item:hover{
+    background-color: #f5cabc;
+    color: white;
+}
+/*.dropdown-menu:hover{*/
+/*background-color: transparent;  */
+/*}*/
+
+.nav-link:hover{
+    background-color: #f5cabc;
+}
+
+.texts{
+    color: #394740;
+    padding: 3%;
+}
+
+.title{
+    text-align: left;
+    font-family: "Segoe UI";
+}
+.article{
+    text-align: justify;
+    font-family: "Segoe UI";
+    margin-top: 4%;
+}
+
+#comments{
+    color: #394740;
+    margin-top: 8%;
+}
+
+.comment_button{
+    background-color: #394740;
+    border: #394740;
+    color: white;
+    width: 200px;
+    margin-left: 40%;
+}
+

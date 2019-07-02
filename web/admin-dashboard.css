@@ -1,0 +1,91 @@
+body {
+    background-color: #f5cabc;
+}
+
+.navbar {
+    background-color: #394740 !important;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    background-color: #f5cabc;
+    color: #394740 !important;
+}
+
+#home {
+    color: white;
+}
+
+#search_button {
+    color: white;
+    background: transparent;
+    border: 1px solid white;
+    font-family: "Calibri Light";
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding: 6px 30px;
+    margin-top: 42px;
+    margin-right: 30px;
+    transition: all 0.4s ease-in-out;
+}
+
+#search_button:hover {
+    background: #FFC0AB;
+    border-color: #FFC0AB;
+    color: #394740;
+}
+
+.texts {
+    margin-top: 5%;
+    margin-left: 2%;
+}
+
+.card {
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+.icon-img {
+    margin: 8%;
+    text-align: center;
+}
+
+.coloun-left {
+    background-color: #394740;
+}
+
+.col-2 {
+    background-color: #394740;
+}
+#navbarNavDropdown{
+    position: absolute;
+    right: 0;
+}
+#logout_button {
+    color: white;
+
+}
+
+#logout_button:hover {
+    background-color: transparent;
+    color: grey;
+}
+
+
+.nav {
+    padding-top: 15%;
+}
+
+.nav-link.active {
+    background-color: #f5cabc !important;
+    color: #394740 !important;
+}
+
+.avatar {
+    margin-left: 5%;
+    margin-top: 12%;
+}
